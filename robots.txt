@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://wizardhobbytime.com.ua/sitemap.xml
-Host: wizardhobbytime.com.ua
+Sitemap: http://wizardhobbytime.com/sitemap.xml
+Host: wizardhobbytime.com
